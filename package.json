@@ -1,0 +1,17 @@
+{
+  "name": "bem-project-stub",
+  "description": "Minimal configs and folders to start BEM project",
+  "version": "0.2.4",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/narqo/bem-project-stub.git"
+  },
+  "engines": {
+    "node": ">=0.6"
+  },
+  "devDependencies": {
+    "bem": "~0.5.23"
+  },
+  "author": "",
+  "private": true
+}
