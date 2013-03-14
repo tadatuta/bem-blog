@@ -1,0 +1,9 @@
+1. move simple.bundles inside templates/
+2. move theme name simple.bundles into config
+3. в первом приближении унести знание о уровнях контента в конфиг, а потом — в интроспекцию по файловой системе
+4. унести в конфиг место, куда складываем готовые страницы (сейчас - desktop.bundles)
+5. отнаследовать все папки от bem/lib/levels/simple
+6. генерить конфиги nginx
+7. технология comments.js
+8. simple -> default (?) либо наоборот потом полностью оторвать симпл, а дефолт прямо задизайнить
+9. цель, в т.ч. для bem server для сборки из templates/[theme].bundles

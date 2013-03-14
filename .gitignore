@@ -10,3 +10,7 @@ vendor
 desktop.bundles/*/*.*
 !desktop.bundles/*/*.bemjson.js
 !desktop.bundles/.bem/*
+
+simple.bundles/*/*.*
+!simple.bundles/*/*.bemjson.js
+!simple.bundles/.bem/*

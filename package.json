@@ -10,7 +10,7 @@
     "node": ">=0.6"
   },
   "devDependencies": {
-    "bem": "~0.5.23"
+    "bem": "https://github.com/bem/bem-tools/tarball/introspect"
   },
   "author": "",
   "private": true
